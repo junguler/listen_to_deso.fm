@@ -1,0 +1,14 @@
+latin.html
+latvia.html
+latvian.html
+lebanon.html
+libya.html
+liechtenstein.html
+lingala.html
+lithuania.html
+lithuanian.html
+lounge.html
+low-german.html
+luganda.html
+luxembourg.html
+luxembourgish.html
